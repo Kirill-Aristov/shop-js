@@ -1,0 +1,68 @@
+[
+    {
+        "id": "el1",
+        "name": "Ролл «Темпура»",
+        "img": "https://yummies.ru/wp-content/uploads/2020/01/roll-tempura.jpg",
+        "price": 230
+    },
+    {
+        "id": "el2",
+        "name": "Унаги Ролл",
+        "img": "https://yummies.ru/wp-content/uploads/2020/01/unagi-roll.jpg",
+        "price": 280
+    },
+    {
+        "id": "el3",
+        "name": "Ролл «Калифорния»",
+        "img": "https://yummies.ru/wp-content/uploads/2020/01/roll-kalifornia.jpg",
+        "price": 210
+    },
+    {
+        "id": "el4",
+        "name": "Инари",
+        "img": "https://yummies.ru/wp-content/uploads/2020/01/inari-sushis.jpg",
+        "price": 490
+    },
+    {
+        "id": "el5",
+        "name": "Ролл «Радуга»",
+        "img": "https://yummies.ru/wp-content/uploads/2020/01/roll-raduga.jpg",
+        "price": 390
+    },
+    {
+        "id": "el6",
+        "name": "Ролл «Дракон»",
+        "img": "https://yummies.ru/wp-content/uploads/2020/01/roll-drakon.jpg",
+        "price": 499
+    },
+    {
+        "id": "el7",
+        "name": "Острый ролл с тунцом",
+        "img": "https://yummies.ru/wp-content/uploads/2020/01/ostryi-roll-s-tuncom.jpg",
+        "price": 380
+    },
+    {
+        "id": "el8",
+        "name": "Ролл «Филадельфия»",
+        "img": "https://yummies.ru/wp-content/uploads/2020/01/roll-pholadelphia.jpg",
+        "price": 399
+    },
+    {
+        "id": "el9",
+        "name": "Спайдер ролл",
+        "img": "https://yummies.ru/wp-content/uploads/2020/01/spider-roll-1.jpg",
+        "price": 450
+    },
+    {
+        "id": "el10",
+        "name": "Овощной ролл",
+        "img": "https://yummies.ru/wp-content/uploads/2020/01/veggie-roll.jpg",
+        "price": 300
+    },
+    {
+        "id": "el11",
+        "name": "Ролл «Вулкан»",
+        "img": "https://yummies.ru/wp-content/uploads/2020/01/volcano-roll-1.jpg",
+        "price": 699
+    }
+]
